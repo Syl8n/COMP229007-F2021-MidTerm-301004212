@@ -1,3 +1,10 @@
+/*
+ app.js
+ Henry Suh
+ 301004212
+ Mid-Term Test
+*/
+
 console.log('Goes to the client side.');
 
 if(getTitle == "Book List")

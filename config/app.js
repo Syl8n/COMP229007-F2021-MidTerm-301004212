@@ -1,3 +1,10 @@
+/*
+ app.js
+ Henry Suh
+ 301004212
+ Mid-Term Test
+*/
+
 var createError = require('http-errors');
 var express = require('express');
 var path = require('path');

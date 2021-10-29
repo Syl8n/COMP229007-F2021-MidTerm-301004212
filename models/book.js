@@ -1,4 +1,9 @@
-
+/*
+ app.js
+ Henry Suh
+ 301004212
+ Mid-Term Test
+*/
 let mongoose = require('mongoose');
 
 // Create a model class
