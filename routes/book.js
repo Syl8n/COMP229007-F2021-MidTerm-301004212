@@ -2,7 +2,7 @@
  app.js
  Henry Suh
  301004212
- Mid-Term Test
+ Favourite Book List
 */
 
 var express = require('express');

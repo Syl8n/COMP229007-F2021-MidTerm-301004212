@@ -2,7 +2,7 @@
  app.js
  Henry Suh
  301004212
- Mid-Term Test
+ Favourite Book List
 */
 
 console.log('Goes to the client side.');
