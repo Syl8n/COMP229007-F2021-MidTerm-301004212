@@ -107,7 +107,7 @@ module.exports.displayEditPage = (req, res, next) => {
         {
             //show the edit view
             res.render('book/add_edit', {
-                title: 'Edit Book', 
+                title: 'Edit a Book', 
                 book: bookToEdit
             })
         }
